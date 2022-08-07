@@ -1,7 +1,8 @@
 
 <div align="center">
 <h2>Olá, eu sou Vitor! 👋</h2>
-<p>👷 Engenheiro de software em <a href="https://github.com/d5whub">D5W Group™</a></p>
+
+[//]: # (<p>👷 Engenheiro de software em <a href="https://github.com/d5whub">D5W Group™</a></p>)
 
 ![snake](https://raw.githubusercontent.com/vitorsreis/vitorsreis/output/snake.svg)
 
