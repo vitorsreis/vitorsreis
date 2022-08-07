@@ -1,5 +1,5 @@
 
-<div style="text-align:center">
+<div align="center">
 <h2>Olá, eu sou Vitor! 👋</h2>
 <p>👷 Engenheiro de software em <a href="https://github.com/d5whub">D5W Group™</a></p>
 <br>
