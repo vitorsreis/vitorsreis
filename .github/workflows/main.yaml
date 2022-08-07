@@ -26,10 +26,10 @@ jobs:
         uses: Platane/snk/svg-only@v2
         with:
           github_user_name: ${{ github.repository_owner }}
-          color_snake: #70a5fd
+          color_snake: "#70a5fd"
           outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
+            dist/snake.svg?color_snake=#70a5fd
+            dist/snake-dark.svg?palette=github-dark&color_snake=#70a5fd
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
       - name: push snake.svg to the output branch

@@ -3,7 +3,7 @@
 <h2>Olá, eu sou Vitor! 👋</h2>
 <p>👷 Engenheiro de software em <a href="https://github.com/d5whub">D5W Group™</a></p>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/vitorsreis/vitorsreis/output/snake.svg#gh-light-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/vitorsreis/vitorsreis/output/snake.svg#gh-light-mode-only)
+![snake](https://raw.githubusercontent.com/vitorsreis/vitorsreis/output/snake.svg)
 
 <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=vitorsreis&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=issues,contribs&bg_color=00000000" alt="counters" />
 
